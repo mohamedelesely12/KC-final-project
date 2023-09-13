@@ -5,10 +5,10 @@
 <div dir="rtl">
   
 ### اسم الطالب
-
+محمد أحمد علي العسيلي
 
 ### اسم المشروع
-
+غراس - كويت ضد التصحر
 
 # شرح الفكرة
 المشكلة والحلول المطروحة إن وجدت
@@ -21,10 +21,10 @@
 
 > Fill out project information in English ⬇️
 ### Student Name
-
+Mohamed Ahmed Elesely
 
 ### Project Name
-
+Gheras
 # Idea
 Problem and solutions if found 
 
